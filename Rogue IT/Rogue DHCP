@@ -1,0 +1,71 @@
+A rogue "DHCP" server causes it to Offer IP leases to hosts, which can be misconfigured. Misconfigured settings such as; Incorrect Subnet Masks, wrong default gateway and wrong DNS server can cause connectivity issues.
+
+
+To fix this problem, Use ZENMAP to scan IPs
+
+
+
+
+
+
+
+
+
+
+
+
+Scan DHCP queries
+After opening zenmap, run the syntax shown in the picture in the command box (target may vary based on what subnet ur in)
+Notice how there are 2 different responses coming from different IP addresses.
+To know which one is rogue. On devices with connectivity issues, run:
+ipconfig /all
+Compare their responses with devices that have correct network settings.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Disable or block the rogue DHCP server
+If possible, go to the rogue machine (physical or virtual, e.g., Hyper-V) and turn it off.
+Alternatively, create a packet filtering rule to block/deny the rogue IP/MAC address from the network. 
+
+
+
+
+
+
+
+Verify network is clean
+Run the nmap --script=dhcp-discover scan again to confirm only the legitimate DHCP server responds.
+
+(The image shows 2 queries coming from the same IP address meaning that the rogue device is removed) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Renew IP addresses on affected devices
+On devices that received the wrong DHCP lease, run:
+ipconfig /release
+ipconfig /renew
+this ensures they get proper IP configurations from the authorized DHCP server.
+
