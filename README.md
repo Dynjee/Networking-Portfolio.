@@ -1,7 +1,5 @@
 # Networking-Portfolio.
 
-
-# Practical cybersecurity labs: network scanning, enumeration, and threat detection.
 ## Topics / Skills Covered
 
 - **Cisco CLI** – configuring routers and switches in lab environments  
