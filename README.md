@@ -1,6 +1,10 @@
 # Networking-Portfolio
 
 ## Projects
+<br>
+
+## Foundation
+
 <table>
   <tr>
     <td><img src="Cisco CLI/SOHO Network.png" width="200"></td>
