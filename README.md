@@ -31,3 +31,33 @@
     </td>
   </tr>
 </table>
+
+## On-Premises
+
+<table>
+  <tr>
+    <td><img src="Cisco CLI/SSL.png" width="200"></td>
+    <td>
+      <h1>SSL VPN</h1>
+      <p>Securing 2 endpoints w/ PSK</p>
+    </td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td><img src="Cisco CLI/SSL.png" width="200"></td>
+    <td>
+      <h1>SSL VPN</h1>
+      <p>OSPF, LACP, HSRP, VLANs, DHCP and VOIP</p>
+    </td>
+  </tr>
+</table>
+
+# Virtualized
+
+
+
+
+
