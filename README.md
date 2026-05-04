@@ -11,10 +11,11 @@
 
 <table>
   <tr>
-    <td><img src="Cisco CLI/SOHO Network.png" width="100"></td>
+    <td><img src="Cisco CLI/SOHO Network.png" width="200"></td>
     <td>
-      <h1>Project Title</h1>
-      <p>This text will appear to the right of the image, making it look like a professional header.</p>
+      <h1>SOHO Network</h1>
+      <p>Simple SOHO network .</p>
     </td>
   </tr>
 </table>
+
