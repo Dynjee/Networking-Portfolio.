@@ -3,15 +3,6 @@
 
 ## Foundation
 
-<table>
-  <tr>
-    <td><img src="Cisco CLI/SOHO Network.png" width="200"></td>
-    <td>
-      <h1>SOHO Network</h1>
-      <p>Simple SOHO network.</p>
-    </td>
-  </tr>
-</table>
 
 
 <table>
@@ -38,14 +29,13 @@
 
 <table>
   <tr>
-    <td><img src="Cisco CLI/SSL.png" width="200"></td>
+    <td><img src="Cisco CLI/SOHO Network.png" width="200"></td>
     <td>
-      <h1>SSL VPN</h1>
-      <p>Securing 2 endpoints w/ PSK</p>
+      <h1>SOHO Network</h1>
+      <p>Simple SOHO network.</p>
     </td>
   </tr>
 </table>
-
 
 <table>
   <tr>
