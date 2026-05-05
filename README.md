@@ -1,6 +1,4 @@
-# Networking-Portfolio
-
-## Projects
+# Projects
 <br>
 
 ## Foundation
