@@ -1,0 +1,28 @@
+interface GigabitEthernet0/0
+ ip address 192.168.10.1 255.255.255.0
+ ip helper-address 192.168.10.2
+ duplex auto
+ speed auto
+ 
+interface GigabitEthernet0/1
+ ip address 192.168.20.1 255.255.255.0
+ ip helper-address 192.168.20.2
+ duplex auto
+ speed auto
+
+DHCP Server's Static IP address;
+ 192.168.10.2
+ 255.255.255.0
+ 
+DHCP server configuration;
+Pool switch0
+ Default Gateway: 192.168.10.1
+ Start IP address 192.168.10.3
+ Subnet: 255.255.255.0
+ Max user: 20
+ 
+Pool switch1
+ Default Gateway 192.168.20.1
+ Start IP address: 192.168.20.2
+ Subnet: 255.255.255.0
+ Max user: 20
