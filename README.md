@@ -39,7 +39,7 @@
 
 <table>
   <tr>
-    <td><img src="Cisco CLI/Enterprise_Networking_Design_#1.png" width="200"></td>
+    <td><img src="Enterprise_Networking_Design_%231.png" width="200"></td>
     <td>
       <h1>Enterprise Network Design #1 (HOSPITAL ENTERPRISE BASED)</h1>
       <p>Enterprise Design network. IPsec, OSPF, LACP, HSRP, VLANs, DHCP and VOIP</p>
