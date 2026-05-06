@@ -5,6 +5,16 @@ This portfolio demonstrates practical skills in network design, routing protocol
 
 ## Foundation
 
+<table>
+  <tr>
+    <td><img src="Cisco CLI/VLAN + Trunking.png" width="200"></td>
+    <td>
+      <h1>Logical Segmentation</h1>
+      <p>VLAN + Trunking</p>
+    </td>
+  </tr>
+</table>
+
 
 
 <table>
