@@ -32,17 +32,17 @@
     <td><img src="Cisco CLI/SOHO Network.png" width="200"></td>
     <td>
       <h1>SOHO Network</h1>
-      <p>Simple SOHO network.</p>
+      <p>SOHO Network with 4g/3g Connections and IoT Devices.</p>
     </td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="Cisco CLI/SSL.png" width="200"></td>
+    <td><img src="Cisco CLI/Enterprise Network #1.png" width="200"></td>
     <td>
       <h1>SSL VPN</h1>
-      <p>OSPF, LACP, HSRP, VLANs, DHCP and VOIP</p>
+      <p>Enterprise Desgin network. OSPF, LACP, HSRP, VLANs, DHCP and VOIP</p>
     </td>
   </tr>
 </table>
