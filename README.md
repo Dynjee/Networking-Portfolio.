@@ -39,10 +39,10 @@
 
 <table>
   <tr>
-    <td><img src="Cisco CLI/Enterprise Network #1.png" width="200"></td>
+    <td><img src="Cisco CLI/Enterprise Networking #1.png" width="200"></td>
     <td>
-      <h1>SSL VPN</h1>
-      <p>Enterprise Desgin network. OSPF, LACP, HSRP, VLANs, DHCP and VOIP</p>
+      <h1>Enterprise Network Design #1 (HOSPITAL DEPARTMENT BASED)</h1>
+      <p>Enterprise Design network. IPsec, OSPF, LACP, HSRP, VLANs, DHCP and VOIP</p>
     </td>
   </tr>
 </table>
