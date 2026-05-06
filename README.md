@@ -1,5 +1,7 @@
 # Projects
-<br>
+
+A collection of enterprise-focused networking and cybersecurity labs built through simulation and virtualization tools such as Cisco Packet Tracer and Proxmox VE.
+This portfolio demonstrates practical skills in network design, routing protocols (OSPF), switching (VLANs, LACP), network services (DHCP), VPN security, and virtualized infrastructure. Each project is designed to reflect real-world enterprise environments and security practices.
 
 ## Foundation
 
