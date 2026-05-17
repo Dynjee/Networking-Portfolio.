@@ -1,1 +1,51 @@
+1. Enable telephony service
+conf t
+telephony-service
+max-ephones 10
+max-dn 10
+ip source-address 192.168.1.1 port 2000
+auto assign 1 to 10
+exit
+What this does:
+Turns on Cisco Call Manager Express
+Sets router IP as call control server
+Allows phones to register automatically
 
+2. Create extensions (Directory Numbers)
+ephone-dn 1
+number 1001
+name DJ-Phone1
+
+ephone-dn 2
+number 1002
+name DJ-Phone2
+
+3. Configure phones (ephones)
+ephone 1
+mac-address 000A.41B2.C3D4
+button 1:1
+
+ephone 2
+mac-address 000A.41B2.C3D5
+button 1:2
+What this does:
+Links physical IP phones to extensions
+Maps button → extension number
+
+4. DHCP for IP phones 
+ip dhcp pool VOICE
+network 192.168.1.0 255.255.255.0
+default-router 192.168.1.1
+option 150 ip 192.168.1.1
+Important:
+Option 150 = tells phones where the TFTP/CME server is
+
+5. Enable IP routing interface
+interface g0/0
+ip address 192.168.1.1 255.255.255.0
+no shutdown
+
+6. Verify phones
+show ephone registered
+show telephony-service
+show ephone
