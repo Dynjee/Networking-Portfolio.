@@ -65,7 +65,7 @@ This portfolio demonstrates practical skills in network design, routing protocol
 
 <table>
   <tr>
-    <td><img src="Configs/Snort/Snort-global-settings.png" width="400"></td>
+    <td><img src="Configs/Snort/Snort-global-settings.png" width="100"></td>
     <td>
       <h1>Snort-IPS configuration on Pfsense</h1>
       <p>Features Toggled; Oinkmaster Code, Emerging Threats, APPID</p>
