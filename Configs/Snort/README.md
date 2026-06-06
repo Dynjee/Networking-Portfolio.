@@ -5,29 +5,16 @@
 * APPID Open Rules
 
 
-<table>
-  <tr>
-    <td><img src="Snort-global-settings.png" width="500"></td>
-    <td>
-      <h1>Snort-IPS configuration on Pfsense</h1>
-      <p>Features Toggled; Oinkmaster Code, Emerging Threats, APPID</p>
-    </td>
-  </tr>
-</table>
+<img src="Snort-global-settings.png" width="500" alt="Snort Global Settings">
+
+<h1>Snort IPS Configuration on pfSense</h1>
 
 
-<table>
-  <tr>
-    <td><img src="snort32.png" width="500"></td>
-    <td>
-    </td>
-  </tr>
-</table>
+<img src="snort32.png" width="500" alt="Snort Global Settings">
 
-<table>
-  <tr>
-    <td><img src="snort42.png" width="500"></td>
-    <td>
-    </td>
-  </tr>
-</table>
+<h1>Snort IPS Configuration on pfSense</h1>
+
+
+<img src="snort42.png" width="500" alt="Snort Global Settings">
+
+<h1>Snort IPS Configuration on pfSense</h1>
