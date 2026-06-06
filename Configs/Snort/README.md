@@ -12,5 +12,4 @@
 <img src="snort32.png" width="700" alt="Snort Global Settings">
 
 
-
 <img src="snort42.png" width="700" alt="Snort Global Settings">
