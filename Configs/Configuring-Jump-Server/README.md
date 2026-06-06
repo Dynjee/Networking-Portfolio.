@@ -1,5 +1,4 @@
-
-# Configuring a Jump Box
+# Configuring a Jump box.
 
 ## Features Enabled;
 <ul>
