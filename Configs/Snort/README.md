@@ -7,7 +7,7 @@
 
 <table>
   <tr>
-    <td><img src="/Snort-global-settings.png" width="100"></td>
+    <td><img src="Snort-global-settings.png" width="500"></td>
     <td>
       <h1>Snort-IPS configuration on Pfsense</h1>
       <p>Features Toggled; Oinkmaster Code, Emerging Threats, APPID</p>
@@ -18,7 +18,7 @@
 
 <table>
   <tr>
-    <td><img src="snort32.png" width="100"></td>
+    <td><img src="snort32.png" width="500"></td>
     <td>
     </td>
   </tr>
@@ -26,7 +26,7 @@
 
 <table>
   <tr>
-    <td><img src="Configs/Snort/snort42.png" width="100"></td>
+    <td><img src="snort42.png" width="500"></td>
     <td>
     </td>
   </tr>
