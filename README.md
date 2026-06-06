@@ -68,7 +68,7 @@ This portfolio demonstrates practical skills in network design, routing protocol
     <td><img src="Configs/Snort/Snort-global-settings.png" width="100"></td>
     <td>
       <h1>Snort-IPS configuration on Pfsense</h1>
-      <p>Features Toggled; Oinkmaster Code, Emerging Threats, APPID</p>
+      <p>Features Toggled; Oinkmater code, Snort GPLv2, APPID Open Rules, Sourcefire OpenAPPID Detectors and Emerging Threats Open Rules</p>
     </td>
   </tr>
 </table>
