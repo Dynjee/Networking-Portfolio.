@@ -73,3 +73,24 @@ This portfolio demonstrates practical skills in network design, routing protocol
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td><img src="Configs/Snort/Snort-global-settings.png" width="100"></td>
+    <td>
+      <h1>Configuring a Jump-Box Server </h1>
+      <p>Features;  <li>SSH Public Key Authentication</li>
+  <li>Password Authentication Disabled</li>
+  <li>Root SSH Login Disabled</li>
+  <li>SSH Jump Server Configured</li>
+  <li>SSH Agent Forwarding Disabled</li>
+  <li>TCP Forwarding Enabled</li>
+  <li>X11 Forwarding Disabled</li>
+  <li>SSH User Restrictions Enabled</li>
+  <li>UFW Firewall Enabled</li>
+  <li>SSH Access Restricted to Jump Server</li>
+  <li>NAT Port Forwarding for External SSH Access</li>
+  <li>Jump Server Hardening Applied</li></p>
+    </td>
+  </tr>
+</table>
+
