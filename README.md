@@ -61,7 +61,15 @@ This portfolio demonstrates practical skills in network design, routing protocol
 
 ## Virtualized
 
+# Other Configs
 
-
-
+<table>
+  <tr>
+    <td><img src="Snort/Snort-global-settings.png" width="400"></td>
+    <td>
+      <h1>Snort-IPS configuration on Pfsense</h1>
+      <p>Features Toggled; Oinkmaster Code, Emerging Threats, APPID</p>
+    </td>
+  </tr>
+</table>
 
