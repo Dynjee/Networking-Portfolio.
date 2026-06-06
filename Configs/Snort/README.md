@@ -3,6 +3,7 @@
 * Emerging Threats Open Rules
 * Sourcefire OpenAPPID Detectors
 * APPID Open Rules
+* Snort GPLv2 Enabled
 
 
 <img src="Snort-global-settings.png" width="700" alt="Snort Global Settings">
