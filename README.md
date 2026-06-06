@@ -75,7 +75,7 @@ This portfolio demonstrates practical skills in network design, routing protocol
 
 <table>
   <tr>
-    <td><img src="Configs/Snort/Snort-global-settings.png" width="100"></td>
+    <td><img src="Confnort/Snort-global-settings.png" width="100"></td>
     <td>
       <h1>Configuring a Jump-Box Server </h1>
       <p>Features;  <li>SSH Public Key Authentication</li>
