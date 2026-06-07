@@ -95,30 +95,4 @@ This portfolio demonstrates practical skills in network design, routing protocol
 </table>
 
 
-<table>
-  <tr>
-    <td>
-      <img src="Configs/QoS-GUI-PFsense/Gallery/QoS.png" width="400" alt="QoS Configuration">
-    </td>
-    <td>
-      <h1>Configuring QoS-GUI-PFsense</h1>
-
-      <p>Features Configured:</p>
-
-      <ul>
-        <li>Firewall Alias</li>
-        <li>Traffic Shaping for Open Wi-Fi</li>
-        <li>QoS for VoIP Traffic (Upload and Download Parameters)</li>
-        <li>Prioritization of Networking Protocols:
-          <ul>
-            <li>MSRDP</li>
-            <li>VNC</li>
-            <li>PPTP</li>
-            <li>IPsec</li>
-          </ul>
-        </li>
-        <li>Configured a Floating Rule to Change the Outbound Port for MSRDP</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<table> <tr> <td><img src="Configs/QoS-GUI-PFsense/Gallery/QoS.png" width="400"></td> <td> <h1>Configuring QoS-GUI-PFsense</h1> <p>Features Toggled;Firewall Alias Traffic Shaping for Open WIFI QoS for VoIP traffic, connection parameters to U/L and D/L Prioritization to certain networking protocols; MSRDP, VNC, PPTP and IPsec. Configuring a floating rule, change the outbound port for MSRDP. </p> </td> </tr> </table> 
