@@ -102,8 +102,7 @@ This portfolio demonstrates practical skills in network design, routing protocol
     </td>
     <td>
       <h1>Configuring QoS-GUI-PFsense</h1>
-        <p>Features Toggled 
-        <li>Firewall Alias</li>
+        <p>Features      <li>Firewall Alias</li>
         <li>Traffic Shaping for Open WIFI</li>
         <li>QoS for VoIP traffic, connection parameters to U/L and D/L</li>
         <li>Prioritization to certain networking protocols;</li>
