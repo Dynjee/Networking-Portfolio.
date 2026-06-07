@@ -65,7 +65,7 @@ This portfolio demonstrates practical skills in network design, routing protocol
 
 <table>
   <tr>
-    <td><img src="Configs/Snort/Snort-global-settings.png" width="100"></td>
+    <td><img src="Configs/Snort/Snort-global-settings.png" width="200"></td>
     <td>
       <h1>Snort-IPS configuration on Pfsense</h1>
       <p>Features Toggled; Oinkmater code, Snort GPLv2, APPID Open Rules, Sourcefire OpenAPPID Detectors and Emerging Threats Open Rules</p>
@@ -75,7 +75,7 @@ This portfolio demonstrates practical skills in network design, routing protocol
 
 <table>
   <tr>
-    <td><img src="Configs/Configuring-Jump-Server/jumpboxnat.png" width="100"></td>
+    <td><img src="Configs/Configuring-Jump-Server/jumpboxnat.png" width="200"></td>
     <td>
       <h1>Configuring a Jump-Box Server </h1>
       <p>Features;  <li>SSH Public Key Authentication</li>
