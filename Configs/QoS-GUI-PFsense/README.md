@@ -1,4 +1,11 @@
-
+# Configuring QoS for PFSense
+## Features Toggled; 
+* Firewall Alias
+* Traffic Shaping for Open WIFI
+* QoS for VoIP traffic, connection parameters to U/L and D/L
+* Prioritization to certain networking protocols; MSRDP, VNC, PPTP and IPsec.
+* Configuring a floating rule, change the outbound port for MSRDP.
+  
 <img src="Gallery/QoS.png" width="700" alt="QoS">
 We're gonna make an alias for 2 IP addresses.
 
