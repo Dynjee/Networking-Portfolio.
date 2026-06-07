@@ -98,7 +98,7 @@ This portfolio demonstrates practical skills in network design, routing protocol
 <table>
   <tr>
     <td>
-      <img src="Configs/QoS-GUI-PFsense/Gallery/dst.png" width="400">
+      <img src="Configs/QoS-GUI-PFsense/Gallery/dst.png" width="150">
     </td>
     <td>
       <h1>Configuring QoS-GUI-PFsense</h1>
